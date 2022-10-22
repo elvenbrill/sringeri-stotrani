@@ -3,7 +3,7 @@
 ## Gaṇeśastotrāṇi
 
 - [Gaṇeśapañcaratnam](ganesha/ganeshapancaratnam.md)
-- Gaṇeśabhujaṅgam
+- [Gaṇeśabhujaṅgam](ganesha/ganeshabhujangam.md)
 - Gaṇādhipapañcaratnam
 - Gaṇeśa-dhyānam
 - Gaṇeśagītam
