@@ -4,7 +4,7 @@
 
 - [Gaṇeśapañcaratnam](ganesha/ganeshapancaratnam.md)
 - [Gaṇeśabhujaṅgam](ganesha/ganeshabhujangam.md)
-- Gaṇādhipapañcaratnam
+- [Gaṇādhipapañcaratnam](ganesha/ganadhipapancaratnam.md)
 - Gaṇeśa-dhyānam
 - Gaṇeśagītam
 
