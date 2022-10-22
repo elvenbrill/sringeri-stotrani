@@ -1,5 +1,7 @@
 # Śṛngēri stotrāṇi
 
+Snapshots of the Śṛngēri stotrāṇi.
+
 ## Gaṇeśastotrāṇi
 
 - [Gaṇeśapañcaratnam](ganesha/ganeshapancaratnam.md)
@@ -10,7 +12,7 @@
 
 ## Subrahmaṇyastotrāṇi
 
-- Subrahmaṇyabhujaṅgam
+- [Subrahmaṇyabhujaṅgam](subrahmanya/subrahmanyabhujangam.md)
 - Subrahmaṇyadhyānam
 - Subrahmaṇyagītam
 
