@@ -5,7 +5,7 @@
 - [Gaṇeśapañcaratnam](ganesha/ganeshapancaratnam.md)
 - [Gaṇeśabhujaṅgam](ganesha/ganeshabhujangam.md)
 - [Gaṇādhipapañcaratnam](ganesha/ganadhipapancaratnam.md)
-- Gaṇeśa-dhyānam
+- [Gaṇeśa-dhyānam](ganesha/ganeshadhyanam.md)
 - Gaṇeśagītam
 
 ## Subrahmaṇyastotrāṇi
