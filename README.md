@@ -20,7 +20,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 
 - [Śivabhujaṅgam](shiva/shivabhujangam.md)
 - [Śivānanda-laharī](shiva/shivananda-lahari.md)
-- Śiva-pādādi-keśānta-varṇana-stotram
+- [Śiva-pādādi-keśānta-varṇana-stotram](shiva/shiva-padadi-keshanta-varnana-stotram.md)
 - Śiva-keśādi-pādānta-varṇana-stotram
 - Vedasāra-śivastotram
 - Śivāparādha-kṣamāpaṇa-stotram
