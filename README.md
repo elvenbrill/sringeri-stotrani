@@ -72,9 +72,9 @@ Snapshots of the Śṛngēri stotrāṇi.
 - Mīnākṣīstotram
 - Kanakadhārāstotram
 
-## Sāradāstotrāṇi
+## Śāradāstotrāṇi
 
-- Śāradā-bhujaṅga-prayātāṣṭakam
+- [Śāradā-bhujaṅga-prayātāṣṭakam](sharada/sharada-bhujanga-prayatashtakam.md)
 - Śāradāmbā-dhyāna-ślokaḥ
 - Śāradāmbā-gītam
 - Śāradāmbā-nāmāvaliḥ
