@@ -40,7 +40,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 
 ## Gurustotrāṇi
 
-- Dakṣiṇāmūrti-varṇamālā-stotram
+- [Dakṣiṇāmūrti-varṇamālā-stotram](guru/dakshinamurti-varnamala-stotram.md)
 - Dakṣiṇāmūrtyaṣṭakam
 - Dakṣiṇāmūrtistotram
 - Gurvaṣṭakam
