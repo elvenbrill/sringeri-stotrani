@@ -18,7 +18,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 
 ## Śivastotrāṇi
 
-- Śivabhujaṅgam
+- [Śivabhujaṅgam](shiva/shivabhujangam.md)
 - Śivānanda-laharī
 - Śiva-pādādi-keśānta-varṇana-stotram
 - Śiva-keśādi-pādānta-varṇana-stotram
