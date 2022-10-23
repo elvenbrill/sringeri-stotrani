@@ -79,7 +79,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 - [Śāradāmbā-gītam](sharada/shradamba-gitam.md)
 - [Śāradāmbā-nāmāvaliḥ](sharada/sharadamba-namavalih.md)
 - [Śāradā-pañcaratnastutiḥ](sharada/sharada-pancharatnastutih.md)
-- Śāradā-svarṇaratha-samarpaṇa-padyāvaliḥ
+- [Śāradā-svarṇaratha-samarpaṇa-padyāvaliḥ](sharada/sharada-svarnaratha-samarpana-padyavalih.md)
 
 ## Nadīstotrāṇi
 
