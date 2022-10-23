@@ -14,7 +14,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 
 - [Subrahmaṇyabhujaṅgam](subrahmanya/subrahmanyabhujangam.md)
 - [Subrahmaṇyadhyānam](subrahmanya/subrahmanyadhyanam.md)
-- Subrahmaṇyagītam
+- [Subrahmaṇyagītam](subrahmanya/subrahmanyagitam.md)
 
 ## Śivastotrāṇi
 
