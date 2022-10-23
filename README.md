@@ -23,7 +23,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 - [Śiva-pādādi-keśānta-varṇana-stotram](shiva/shiva-padadi-keshanta-varnana-stotram.md)
 - [Śiva-keśādi-pādānta-varṇana-stotram](shiva/shiva-keshadi-padanta-varnana-stotram.md)
 - [Vedasāra-śivastotram](shiva/vedasara-shivastotram.md)
-- Śivāparādha-kṣamāpaṇa-stotram
+- [Śivāparādha-kṣamāpaṇa-stotram](shiva/shivaparadha-kshamapana-stotram.md)
 - Suvarṇa-mālā-stutiḥ
 - Daśa-ślokī-stutiḥ
 - Mṛtyuñjaya-mānasika-pūjā-stotram
