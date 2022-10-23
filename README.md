@@ -76,7 +76,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 
 - [Śāradā-bhujaṅga-prayātāṣṭakam](sharada/sharada-bhujanga-prayatashtakam.md)
 - [Śāradāmbā-dhyāna-ślokaḥ](sharada/sharadamba-dhyana-shlokah.md)
-- Śāradāmbā-gītam
+- [Śāradāmbā-gītam](sharada/shradamba-gitam.md)
 - Śāradāmbā-nāmāvaliḥ
 - Śāradā-pañcaratnastutiḥ
 - Śāradā-svarṇaratha-samarpaṇa-padyāvaliḥ
