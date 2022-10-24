@@ -28,7 +28,7 @@ Snapshots of the Śṛngēri stotrāṇi.
 - [Daśa-ślokī-stutiḥ](shiva/dasha-shloki-stutih.md)
 - [Mṛtyuñjaya-mānasika-pūjā-stotram](shiva/mrityunjaya-manasika-puja-stotram.md)
 - [Śivanāmāvalyaṣṭakam](shiva/shivanamavalyashtakam.md)
-- Śiva-pañcākṣara-stotram
+- [Śiva-pañcākṣara-stotram](shiva/shiva-panchakshara-stotram.md)
 - Umā-maheśvara-stotram
 - Dvādaśaliṅgastotram
 - Ardhanārīśvarastotram
